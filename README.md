@@ -26,3 +26,18 @@ The analysis combines exploratory data analysis, feature engineering, visualizat
 - One-way ANOVA
 - Tukey HSD post-hoc test
 - Data visualization
+## Key Findings
+
+- Rider wait time showed a moderate positive correlation with Kitchen Preparation Time (KPT).
+- KPT differed significantly across time periods based on one-way ANOVA.
+- Evening and night accounted for the highest order volumes.
+- A small number of subzones and restaurants accounted for a large share of the orders.
+- Order value showed a positive association with KPT, while distance had a very weak association with KPT.
+- The dataset contained a substantial proportion of discounted orders.
+## Dataset
+
+The dataset used in this project is the Food Delivery Order History dataset available on Kaggle.
+
+Source: https://www.kaggle.com/datasets/sujalsuthar/food-delivery-order-history-data
+
+The dataset contains 20,165 food-delivery orders with 29 variables.
