@@ -14,3 +14,15 @@ The analysis combines exploratory data analysis, feature engineering, visualizat
 - SciPy
 - Statsmodels
 - Google Colab
+## Analysis Performed
+
+- Data cleaning and initial data inspection
+- Feature engineering
+- Order demand analysis by time and location
+- Discount and order value analysis
+- Kitchen Preparation Time (KPT) analysis
+- Rider wait time analysis
+- Correlation analysis
+- One-way ANOVA
+- Tukey HSD post-hoc test
+- Data visualization
